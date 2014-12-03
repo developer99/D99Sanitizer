@@ -1,6 +1,7 @@
 <?php
 /**
  * Copyright (c) 2013 https://github.com/circunspecter
+ * Copyright (c) 2014 https://github.com/developer99
  *
  * MIT LICENSE
  *
@@ -23,8 +24,6 @@
  * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
-// Now the changes are working.
-// 
 
 class D99Sanitizer
 {
